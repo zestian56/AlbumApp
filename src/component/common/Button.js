@@ -6,7 +6,7 @@ const Button = () => {
     return (
         
         <TouchableOpacity style={buttonStyle}>
-            <Text style={textStyle}> Paconic Button </Text>
+            <Text style={textStyle}> Comprar </Text>
         </TouchableOpacity>
     );
 
